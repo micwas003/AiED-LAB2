@@ -1,3 +1,4 @@
+#Glowny skrypt do cwiczenia laboratoryjnego nr 2
 from sklearn.cluster import KMeans, AgglomerativeClustering, DBSCAN
 import matplotlib
 from matplotlib import pyplot as plt
